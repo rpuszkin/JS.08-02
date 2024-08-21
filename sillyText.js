@@ -1,5 +1,5 @@
 function returnSillyText() {
-  return "silly text";
+  return "I'm a silly string";
 }
 
 export default returnSillyText;
